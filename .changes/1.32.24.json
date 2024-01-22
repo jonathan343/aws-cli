@@ -1,0 +1,52 @@
+[
+  {
+    "category": "``organizations``",
+    "description": "Update organizations command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``connectcases``",
+    "description": "Update connectcases command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``cloudfront-keyvaluestore``",
+    "description": "Update cloudfront-keyvaluestore command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``cloud9``",
+    "description": "Update cloud9 command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``rds``",
+    "description": "Update rds command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``ecs``",
+    "description": "Update ecs command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``ec2``",
+    "description": "Update ec2 command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``endpoint-rules``",
+    "description": "Update endpoint-rules command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``finspace``",
+    "description": "Update finspace command to latest version",
+    "type": "api-change"
+  },
+  {
+    "category": "``appconfigdata``",
+    "description": "Update appconfigdata command to latest version",
+    "type": "api-change"
+  }
+]
