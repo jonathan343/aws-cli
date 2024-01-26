@@ -34,7 +34,7 @@ install_requires = [
 
 
 setup_options = dict(
-    name='awscli',
+    name='awscli-infra-testing',
     version=find_version("awscli", "__init__.py"),
     description='Universal Command Line Environment for AWS.',
     long_description=read('README.rst'),
